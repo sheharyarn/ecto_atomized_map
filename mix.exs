@@ -1,8 +1,8 @@
 defmodule Ecto.AtomizedMap.Mixfile do
   use Mix.Project
 
-  @app     :ecto_atomized_app
-  @name    "Ecto.AtomizedApp"
+  @app     :ecto_atomized_map
+  @name    "Ecto.AtomizedMap"
   @version "0.1.0"
   @github  "https://github.com/sheharyarn/#{@app}"
   @author  "Sheharyar Naseer"
