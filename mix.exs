@@ -41,6 +41,7 @@ defmodule Ecto.AtomizedMap.Mixfile do
     [
       {:ecto,     ">= 2.0.0"},
       {:ex_utils, "~> 0.1.4"},
+      {:ex_doc,   ">= 0.0.0", only: :dev},
     ]
   end
 
